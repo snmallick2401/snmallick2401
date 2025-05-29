@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **snmallick2401**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGTHtwdAhI/F1-BGHaKAdlhzzK7fWAC9g/edit?utm_content=DAGTHtwdAhI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGTHtwdAhI/F1-BGHaKAdlhzzK7fWAC9g/edit?utm_content=DAGTHtwdAhI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ghNfkNzxBSSASrmdElog7r59os-QmDUt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
