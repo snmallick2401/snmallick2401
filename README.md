@@ -121,22 +121,19 @@
 
 <p align="center">
   <a href="https://github.com/snmallick2401">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snmallick2401&theme=tokyonight" alt="Suhiab's GitHub Contributions" width="95%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snmallick2401&theme=tokyonight" alt="Top Languages by Repo" height="185" />
+  </a>
+  <a href="https://github.com/snmallick2401">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snmallick2401&theme=tokyonight" alt="GitHub Summary Stats" height="185" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/snmallick2401">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snmallick2401&theme=tokyonight" alt="Top Languages by Repo" height="195" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=snmallick2401&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="185" />
   </a>
-  <a href="https://github.com/snmallick2401">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=snmallick2401&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.leetcode.com/snmallick2401" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/snmallick2401?theme=dark&font=Fira%20Code" alt="LeetCode Stats" height="195" />
+    <img src="https://leetcard.jacoblin.cool/snmallick2401?theme=dark&font=Fira%20Code" alt="LeetCode Stats" height="185" />
   </a>
 </p>
 
